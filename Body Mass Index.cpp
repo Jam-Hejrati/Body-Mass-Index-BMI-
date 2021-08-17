@@ -50,5 +50,7 @@ int main()
 	
 	
 	cout<<"\n\n\n\n   ____Jam Hejrati____\n\n";
+
 	system("pause");
+	return 0;	
 }
